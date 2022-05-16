@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.293" height="25.116" viewBox="0 0 25.293 25.116">
+  <g id="shopping-cart" transform="translate(0.5 0.5)">
+    <ellipse id="Oval" cx="1.052" cy="1.044" rx="1.052" ry="1.044" transform="translate(5.31 20.931)" fill="#283891" stroke="#283891" stroke-width="1"/>
+    <ellipse id="Oval-2" data-name="Oval" cx="1.052" cy="1.044" rx="1.052" ry="1.044" transform="translate(20.033 20.931)" fill="#283891" stroke="#283891" stroke-width="1"/>
+    <path id="Oval-3" data-name="Oval" d="M2.156,0A2.14,2.14,0,1,0,4.311,2.14,2.148,2.148,0,0,0,2.156,0Z" transform="translate(4.206 19.835)" fill="#283891" stroke="#283891" stroke-width="1"/>
+    <path id="Oval-4" data-name="Oval" d="M2.156,0A2.14,2.14,0,1,0,4.311,2.14,2.148,2.148,0,0,0,2.156,0Z" transform="translate(18.928 19.835)" fill="#283891" stroke="#283891" stroke-width="1"/>
+    <path id="Path" d="M6.362,17.851a1.1,1.1,0,0,1-1.071-.828L5.268,16.9,3.291,2.192H1.1a1.1,1.1,0,0,1-1.1-.968L0,1.1A1.1,1.1,0,0,1,.976.007L1.1,0H4.259A1.1,1.1,0,0,1,5.33.828l.023.123.572,4.268H23.188a1.1,1.1,0,0,1,1.1,1.184l-.018.127-2.1,10.439a1.1,1.1,0,0,1-.953.874l-.13.007Z" fill="none" stroke="#283891" stroke-width="1"/>
+  </g>
+</svg>
