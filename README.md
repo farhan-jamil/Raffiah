@@ -7,5 +7,5 @@
 ![WhatsApp Image 2022-05-16 at 2 03 6](https://user-images.githubusercontent.com/97391128/168577829-29fb08f4-c33a-411b-9e38-848a91e198ff.png)
 ![WhatsApp Image 2022-05-16 at 2 03 4](https://user-images.githubusercontent.com/97391128/168577849-49b17b92-53ee-4a86-924e-9bd5ed45c6ae.png)
 ![WhatsApp Image 2022-05-16 at 2 03 3](https://user-images.githubusercontent.com/97391128/168577894-d863ebd3-05ec-473b-b1ee-15f692c0676f.png)
-![WhatsApp Image 2022-05-16 at 2 03 4](https://user-images.githubusercontent.com/97391128/168577897-c24e092c-f805-453f-900c-e20c14ad6199.png)
+
 ![WhatsApp Image 2022-05-16 at 2 03 2](https://user-images.githubusercontent.com/97391128/168577906-5bc9d149-b0e6-420e-95f1-416c7c905308.png)
