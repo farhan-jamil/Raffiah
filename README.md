@@ -10,7 +10,11 @@
 ##### SignUp: while entering required data in the Fields account will ge created
 ![WhatsApp Image 2022-05-16 at 2 03 5](https://user-images.githubusercontent.com/97391128/168577819-dbf67843-2bff-4a27-a77c-b06b59f609cd.png)
 ![WhatsApp Image 2022-05-16 at 2 03 6](https://user-images.githubusercontent.com/97391128/168577829-29fb08f4-c33a-411b-9e38-848a91e198ff.png)
-
+![WhatsApp Image 2022-05-16 at 4 09 1](https://user-images.githubusercontent.com/97391128/168580690-f1842099-be7f-4a75-bee4-1265c8c73692.png)
+### Forgot Password Screen
+##### 1.User will enter he/her email for verification that user exsist or not.
+##### 2.After email Verified he/her will rececive 4 digit code which he has to enter
+##### 3.After that user can set his new passowrd for his account
 ![WhatsApp Image 2022-05-16 at 2 03 4](https://user-images.githubusercontent.com/97391128/168577849-49b17b92-53ee-4a86-924e-9bd5ed45c6ae.png)
 ![WhatsApp Image 2022-05-16 at 2 03 3](https://user-images.githubusercontent.com/97391128/168577894-d863ebd3-05ec-473b-b1ee-15f692c0676f.png)
 ![WhatsApp Image 2022-05-16 at 2 03 2](https://user-images.githubusercontent.com/97391128/168577906-5bc9d149-b0e6-420e-95f1-416c7c905308.png)
