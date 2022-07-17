@@ -15,10 +15,6 @@
 ##### 1.User will enter he/her email for verification that user exsist or not.
 ##### 2.After email Verified he/her will rececive 4 digit code which he has to enter
 ##### 3.After that user can set his new passowrd for his account![19](https://user-images.githubusercontent.com/97391128/179388539-ef60e267-10d7-4329-a630-0e085e0ae93c.png)
-![20](https://user-images.githubusercontent.com/97391128/179388540-cf9996d8-1ab6-496e-8526-3fd595c9a342.png)
-![21](https://user-images.githubusercontent.com/97391128/179388543-3cf4b60d-4a1b-49e3-bd4e-dfb2e0888940.png)
-![22](https://user-images.githubusercontent.com/97391128/179388547-f28d9f55-31a3-412d-8069-b861e7b8e853.png)
-
 ![WhatsApp Image 2022-05-16 at 2 03 4](https://user-images.githubusercontent.com/97391128/168577849-49b17b92-53ee-4a86-924e-9bd5ed45c6ae.png)
 ![WhatsApp Image 2022-05-16 at 2 03 3](https://user-images.githubusercontent.com/97391128/168577894-d863ebd3-05ec-473b-b1ee-15f692c0676f.png)
 ![WhatsApp Image 2022-05-16 at 2 03 2](https://user-images.githubusercontent.com/97391128/168577906-5bc9d149-b0e6-420e-95f1-416c7c905308.png)
